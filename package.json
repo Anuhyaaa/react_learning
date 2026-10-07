@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is practice ",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/Anuhyaaa/react_learning#readme",
+  "bugs": {
+    "url": "https://github.com/Anuhyaaa/react_learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuhyaaa/react_learning.git"
+  },
+  "license": "ISC",
+  "author": "Anuhya",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
