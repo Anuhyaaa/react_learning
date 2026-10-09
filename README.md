@@ -8,5 +8,11 @@
 - Minification 
 - Bundling 
 - Compression of files 
-- Graph Dependencies 
-
+- Dependency Graph 
+- Consistent Hashing 
+- Code splitting 
+- Differencial Bundling -  support of oler browsers
+- Diagnostic
+- Error Handling 
+- HTTPs
+- Tree Shaking - remove unused code 
